@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.Utilities\\Book.Utilities.csproj": {}
+    "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.Utilities\\Book.Utilities.csproj": {}
   },
   "projects": {
-    "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.Utilities\\Book.Utilities.csproj": {
+    "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.Utilities\\Book.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.Utilities\\Book.Utilities.csproj",
+        "projectUniqueName": "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.Utilities\\Book.Utilities.csproj",
         "projectName": "Book.Utilities",
-        "projectPath": "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.Utilities\\Book.Utilities.csproj",
+        "projectPath": "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.Utilities\\Book.Utilities.csproj",
         "packagesPath": "C:\\Users\\Ramadan Osman\\.nuget\\packages\\",
-        "outputPath": "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.Utilities\\obj\\",
+        "outputPath": "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ramadan Osman\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6355,11 +6355,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.DataAccess\\Book.DataAccess.csproj",
+      "projectUniqueName": "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.DataAccess\\Book.DataAccess.csproj",
       "projectName": "Book.DataAccess",
-      "projectPath": "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.DataAccess\\Book.DataAccess.csproj",
+      "projectPath": "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.DataAccess\\Book.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Ramadan Osman\\.nuget\\packages\\",
-      "outputPath": "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.DataAccess\\obj\\",
+      "outputPath": "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ramadan Osman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6376,8 +6376,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.Entities\\Book.Entities.csproj": {
-              "projectPath": "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.Entities\\Book.Entities.csproj"
+            "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.Entities\\Book.Entities.csproj": {
+              "projectPath": "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.Entities\\Book.Entities.csproj"
             }
           }
         }

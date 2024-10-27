@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XqkmxQnm3A0+qyb19G+lMrcNkvtTK7KB+U4PDpsuIlsAQLc+Ig74Im123LupoVFRHHhlGawTm4wY/HcjqGpLrg==",
+  "dgSpecHash": "dk9kfrUv87JvYvd/qSbdM2LW8jpc3WqHHNkHV3PHXPmjBHsEOT0u5cb8NG3ZFTwGBXHCE3j+wE9bY4MgLRitBg==",
   "success": true,
-  "projectFilePath": "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.Entities\\Book.Entities.csproj",
+  "projectFilePath": "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.Entities\\Book.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ramadan Osman\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\Ramadan Osman\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

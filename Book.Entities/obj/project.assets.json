@@ -4371,11 +4371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.Entities\\Book.Entities.csproj",
+      "projectUniqueName": "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.Entities\\Book.Entities.csproj",
       "projectName": "Book.Entities",
-      "projectPath": "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.Entities\\Book.Entities.csproj",
+      "projectPath": "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.Entities\\Book.Entities.csproj",
       "packagesPath": "C:\\Users\\Ramadan Osman\\.nuget\\packages\\",
-      "outputPath": "E:\\1_Wep Dev_Track\\Projects\\Book Store\\Book.Entities\\obj\\",
+      "outputPath": "E:\\1_Wep Dev_Track\\Projects\\Book_Store\\Book.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ramadan Osman\\AppData\\Roaming\\NuGet\\NuGet.Config",
