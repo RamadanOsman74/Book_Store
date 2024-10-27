@@ -1,0 +1,23 @@
+E:\1_Wep Dev_Track\Projects\Book.Entities\bin\Debug\net8.0\Book.Entities.deps.json
+E:\1_Wep Dev_Track\Projects\Book.Entities\bin\Debug\net8.0\Book.Entities.dll
+E:\1_Wep Dev_Track\Projects\Book.Entities\bin\Debug\net8.0\Book.Entities.pdb
+E:\1_Wep Dev_Track\Projects\Book.Entities\obj\Debug\net8.0\Book.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\1_Wep Dev_Track\Projects\Book.Entities\obj\Debug\net8.0\Book.Entities.AssemblyInfoInputs.cache
+E:\1_Wep Dev_Track\Projects\Book.Entities\obj\Debug\net8.0\Book.Entities.AssemblyInfo.cs
+E:\1_Wep Dev_Track\Projects\Book.Entities\obj\Debug\net8.0\Book.Entities.csproj.CoreCompileInputs.cache
+E:\1_Wep Dev_Track\Projects\Book.Entities\obj\Debug\net8.0\Book.Entities.dll
+E:\1_Wep Dev_Track\Projects\Book.Entities\obj\Debug\net8.0\refint\Book.Entities.dll
+E:\1_Wep Dev_Track\Projects\Book.Entities\obj\Debug\net8.0\Book.Entities.pdb
+E:\1_Wep Dev_Track\Projects\Book.Entities\obj\Debug\net8.0\ref\Book.Entities.dll
+E:\1_Wep Dev_Track\Projects\Book Store\Book.Entities\bin\Debug\net8.0\Book.Entities.deps.json
+E:\1_Wep Dev_Track\Projects\Book Store\Book.Entities\bin\Debug\net8.0\Book.Entities.dll
+E:\1_Wep Dev_Track\Projects\Book Store\Book.Entities\bin\Debug\net8.0\Book.Entities.pdb
+E:\1_Wep Dev_Track\Projects\Book Store\Book.Entities\obj\Debug\net8.0\Book.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\1_Wep Dev_Track\Projects\Book Store\Book.Entities\obj\Debug\net8.0\Book.Entities.AssemblyInfoInputs.cache
+E:\1_Wep Dev_Track\Projects\Book Store\Book.Entities\obj\Debug\net8.0\Book.Entities.AssemblyInfo.cs
+E:\1_Wep Dev_Track\Projects\Book Store\Book.Entities\obj\Debug\net8.0\Book.Entities.csproj.CoreCompileInputs.cache
+E:\1_Wep Dev_Track\Projects\Book Store\Book.Entities\obj\Debug\net8.0\Book.Entities.dll
+E:\1_Wep Dev_Track\Projects\Book Store\Book.Entities\obj\Debug\net8.0\refint\Book.Entities.dll
+E:\1_Wep Dev_Track\Projects\Book Store\Book.Entities\obj\Debug\net8.0\Book.Entities.pdb
+E:\1_Wep Dev_Track\Projects\Book Store\Book.Entities\obj\Debug\net8.0\ref\Book.Entities.dll
+E:\1_Wep Dev_Track\Projects\Book Store\Book.Entities\obj\Debug\net8.0\Book.Entities.csproj.AssemblyReference.cache

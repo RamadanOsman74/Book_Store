@@ -1,0 +1,30 @@
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.AssemblyReference.cache
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.AssemblyInfoInputs.cache
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.AssemblyInfo.cs
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.CoreCompileInputs.cache
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.deps.json
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.dll
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.pdb
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\bin\Debug\net8.0\Book.Entities.dll
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\bin\Debug\net8.0\Book.Entities.pdb
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\obj\Debug\net8.0\Book.Dat.E638D6D7.Up2Date
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.dll
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\obj\Debug\net8.0\refint\Book.DataAccess.dll
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.pdb
+E:\1_Wep Dev_Track\Projects\Book.DataAccess\obj\Debug\net8.0\ref\Book.DataAccess.dll
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.deps.json
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.dll
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.pdb
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\bin\Debug\net8.0\Book.Entities.dll
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\bin\Debug\net8.0\Book.Entities.pdb
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.AssemblyReference.cache
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.AssemblyInfoInputs.cache
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.AssemblyInfo.cs
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.CoreCompileInputs.cache
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\obj\Debug\net8.0\Book.Dat.E638D6D7.Up2Date
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.dll
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\obj\Debug\net8.0\refint\Book.DataAccess.dll
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.pdb
+E:\1_Wep Dev_Track\Projects\Book Store\Book.DataAccess\obj\Debug\net8.0\ref\Book.DataAccess.dll
